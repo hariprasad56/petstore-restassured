@@ -1,6 +1,7 @@
 com\utilities\MyListeners.class
 com\endpoints\UserEndPoints.class
 com\testcases\DatadrivenTest.class
+com\testcases\Pet.class
 com\payload\User.class
 com\utilities\ReadDataFromXcel.class
 com\endpoints\Routes.class

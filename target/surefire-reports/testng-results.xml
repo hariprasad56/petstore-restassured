@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-12T18:31:26 IST" name="Suite" finished-at="2024-04-12T18:31:37 IST" duration-ms="10591">
+  <suite started-at="2024-04-13T12:53:07 IST" name="Suite" finished-at="2024-04-13T12:53:16 IST" duration-ms="9751">
     <groups>
     </groups>
-    <test started-at="2024-04-12T18:31:26 IST" name="Test" finished-at="2024-04-12T18:31:37 IST" duration-ms="10591">
+    <test started-at="2024-04-13T12:53:07 IST" name="Test" finished-at="2024-04-13T12:53:16 IST" duration-ms="9751">
       <class name="com.testcases.VerifyCreateUser">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-12T18:31:27 IST" name="setUp" finished-at="2024-04-12T18:31:27 IST" duration-ms="811" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-13T12:53:07 IST" name="setUp" finished-at="2024-04-13T12:53:08 IST" duration-ms="689" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyCreateUser()[pri:1, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-12T18:31:27 IST" name="verifyCreateUser" finished-at="2024-04-12T18:31:31 IST" duration-ms="3785" status="PASS">
+        <test-method signature="verifyCreateUser()[pri:1, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-13T12:53:08 IST" name="verifyCreateUser" finished-at="2024-04-13T12:53:11 IST" duration-ms="3387" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCreateUser -->
-        <test-method signature="VerifyGetUser()[pri:2, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-12T18:31:31 IST" name="VerifyGetUser" finished-at="2024-04-12T18:31:33 IST" duration-ms="1372" status="PASS">
+        <test-method signature="VerifyGetUser()[pri:2, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-13T12:53:11 IST" name="VerifyGetUser" finished-at="2024-04-13T12:53:12 IST" duration-ms="1377" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyGetUser -->
-        <test-method signature="verifyUpdateUser()[pri:3, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-12T18:31:33 IST" name="verifyUpdateUser" finished-at="2024-04-12T18:31:35 IST" duration-ms="2791" status="PASS">
+        <test-method signature="verifyUpdateUser()[pri:3, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-13T12:53:12 IST" name="verifyUpdateUser" finished-at="2024-04-13T12:53:15 IST" duration-ms="2678" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUpdateUser -->
-        <test-method signature="VerifydeleteUser()[pri:4, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-12T18:31:35 IST" name="VerifydeleteUser" finished-at="2024-04-12T18:31:37 IST" duration-ms="1420" status="PASS">
+        <test-method signature="VerifydeleteUser()[pri:4, instance:com.testcases.VerifyCreateUser@247bddad]" started-at="2024-04-13T12:53:15 IST" name="VerifydeleteUser" finished-at="2024-04-13T12:53:16 IST" duration-ms="1390" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifydeleteUser -->
